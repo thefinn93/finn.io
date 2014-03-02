@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Keybase, way to match handle to keys"
+title: "Keybase, a site for matching handles to keys"
 date: 2014-03-02 00:00:00
 categories: gpg pgp socialmedia twitter github encryption
 ---
