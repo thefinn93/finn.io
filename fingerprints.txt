@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+I, Finn Herzfeld, own the XMPP accounts finn@rows.io, thefinn93@gmail.com and
+thefinn93@thefinn93.com. My OTR fingerprints on my laptop for those accounts
+are as follows:
+
+
+finn@rows.io            BA6E5C1D BE2D6E1E 90BFDF2E 111A0088 CC8381A5
+thefinn93@thefinn93.com 448A6204 879A697D 87AC1F9F BC58EDFB 67B3FC58
+thefinn93@gmail.com     2E0113C4 C13D48AC E679223F D2C3EBE6 CC7F4E3F
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+iQIcBAEBAgAGBQJTE44wAAoJECOUeeg5xwDmAZcP/i0KvSNy0yVzFCz/pwTMi+C3
+ueKEVTzxsd/gO7I7najlHlBTIBQ5FOBrZt0Jo5OKmj/d0DwfBZooMmOIzVhgpH0j
+sb+WPKHOZVRjJKzSAazRvTXXaLx3N+OUXAzVxvzR9FC5SjtO1mVtq+yFE4Cs1Qf7
+6nHxNrRmS2Uu5oNUchKfTdfq4pxiydHZPj2NQ4qPI7IN0IZZkL4F93/O+qi5034g
++3u0sksNh82CFB316xGabmtlOhPgNxNKBZa7JJ1gj0y7vNE7yMqf5td83XPmFuOk
+fcCXvOaNYKg1VveeWOnR1M5Yvcf/Gr8QHX2T1UDKbkFconfspxBBRjaDB3TXXJeC
+5JQ1ju24gtBS7eFF7vF7TTXERKIh+S2qTj3ILbm67H3S7mfYnpmkvaoSLq/ddsdg
+uHrc/ikRKGuYqm0c+so1OhtXVrpuXliPwn+jkB+kfPxtoBo+uZgUmQ40R3Q/rKqf
+oiyNvrYRjnIsoExM86EMqRFJU6A0d2AICO3gJtNkTWMdWMB9ePNJ2MkJVf5jrBBm
+0So3Bp2+5n1CMVpEcQljuZHHwFkTJlUaEpF2uMWnQzNlPorc63dym8XwFnZImMkz
+xnDjkMP/K05M/iuGpu56UYVXgh84ZmKUcffHwI9JahTf9dHsmbY4CWUyda9f+E1C
+usUzbLL2rP9qejGEe4P+
+=0/o0
+-----END PGP SIGNATURE-----
