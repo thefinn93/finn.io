@@ -1,6 +1,8 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
+Hash: SHA1
+
 I, Finn Herzfeld, own the XMPP accounts finn@rows.io, thefinn93@gmail.com and
 thefinn93@thefinn93.com. My OTR fingerprints on my laptop for those accounts
 are as follows:
@@ -9,20 +11,29 @@ are as follows:
 finn@rows.io            BA6E5C1D BE2D6E1E 90BFDF2E 111A0088 CC8381A5
 thefinn93@thefinn93.com 448A6204 879A697D 87AC1F9F BC58EDFB 67B3FC58
 thefinn93@gmail.com     2E0113C4 C13D48AC E679223F D2C3EBE6 CC7F4E3F
+
+My TextSecure fingerprint:
+
+        05 03 d4 7b a6 8f 17 27 97 df 9d
+        9e 76 53 53 98 d8 95 a3 a9 5b 95
+        d3 c6 b5 e7 c8 f5 38 b9 21 58 65
+
+A QR version of this fingerprint can be found at https://finn.io/textsecure.png
+and it's signature at https://finn.io/textsecure.png.sig
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.14 (GNU/Linux)
 
-iQIcBAEBAgAGBQJTE44wAAoJECOUeeg5xwDmAZcP/i0KvSNy0yVzFCz/pwTMi+C3
-ueKEVTzxsd/gO7I7najlHlBTIBQ5FOBrZt0Jo5OKmj/d0DwfBZooMmOIzVhgpH0j
-sb+WPKHOZVRjJKzSAazRvTXXaLx3N+OUXAzVxvzR9FC5SjtO1mVtq+yFE4Cs1Qf7
-6nHxNrRmS2Uu5oNUchKfTdfq4pxiydHZPj2NQ4qPI7IN0IZZkL4F93/O+qi5034g
-+3u0sksNh82CFB316xGabmtlOhPgNxNKBZa7JJ1gj0y7vNE7yMqf5td83XPmFuOk
-fcCXvOaNYKg1VveeWOnR1M5Yvcf/Gr8QHX2T1UDKbkFconfspxBBRjaDB3TXXJeC
-5JQ1ju24gtBS7eFF7vF7TTXERKIh+S2qTj3ILbm67H3S7mfYnpmkvaoSLq/ddsdg
-uHrc/ikRKGuYqm0c+so1OhtXVrpuXliPwn+jkB+kfPxtoBo+uZgUmQ40R3Q/rKqf
-oiyNvrYRjnIsoExM86EMqRFJU6A0d2AICO3gJtNkTWMdWMB9ePNJ2MkJVf5jrBBm
-0So3Bp2+5n1CMVpEcQljuZHHwFkTJlUaEpF2uMWnQzNlPorc63dym8XwFnZImMkz
-xnDjkMP/K05M/iuGpu56UYVXgh84ZmKUcffHwI9JahTf9dHsmbY4CWUyda9f+E1C
-usUzbLL2rP9qejGEe4P+
-=0/o0
+iQIcBAEBAgAGBQJTGWijAAoJECOUeeg5xwDmUGYP/2SEMmw4bf3YmIBpdESPOn10
+wzTaUyjChzqhAPQ+8GgKPryA4IEaqqMWE2b0MaWY4z8ttBpGOpCzoA1ekZJZmFgh
+XL5xn4ATxSay9x2lN6NOf3Hcd5jOLeyjVSUYLXKGxRFRmywxlnkW+hVNauX8/Vuq
+O4GN3hTx0meOIPjoCwmVARtyfDx6gMO/pc2wmscAfreG8OgcbBWVzH/1S3hfZ1gJ
+BV7jCoKRwZ/w7la7DsBbnF5bY/phBA95TWGmy4MXTYBX0bHTIuTj27olYP6BCC0a
+0mC9ooxNhSfzkSFz1OAJ1xEmiCCB4sRM0wOQ6WnPPAPfPnmE91VIKBFipMOnuxDr
+kAOc/MMuMZxHApBj7qNK68sqcMRNh124caIGNpbm1Iswn/gVWlQkOK15W1hf2m6I
+AkIq6EI0SFNfAHyKObDA4SBTBrWZ9bbARx4jhDTvp2WkcmlDVzY+eOHOQY32AMad
+xN73aOfpX1iD19fNPxWWoooKY6xlbC8/diu65WbTBxmfIJ6ic6MfWIAWUmziefAl
+UutPZ529CUFcXg4bx5Z80wz5ucHKQ5Dv3lpIY9zcUrF/pPbHHgoVQEZn6AV67H1Z
+KoLXspkFU3nXpzcJSUw/C/k5ZAu/0lFc1tkehAmY/lms0xhjXKI9JewhUNkgOU5C
+kmTwsnzlLYtT0FPRj4wV
+=dShA
 -----END PGP SIGNATURE-----
