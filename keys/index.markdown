@@ -1,0 +1,52 @@
+---
+layout: default
+title: Keys
+---
+```
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+```
+
+I, Finn Herzfeld, own the XMPP accounts finn@rows.io, thefinn93@gmail.com and
+thefinn93@thefinn93.com. My OTR fingerprints on my laptop for those accounts
+are as follows:
+
+
+finn@rows.io            `BA6E5C1D BE2D6E1E 90BFDF2E 111A0088 CC8381A5`
+
+thefinn93@thefinn93.com `448A6204 879A697D 87AC1F9F BC58EDFB 67B3FC58`
+
+thefinn93@gmail.com     `2E0113C4 C13D48AC E679223F D2C3EBE6 CC7F4E3F`
+
+My [TextSecure](https://github.com/WhisperSystems/TextSecure) fingerprint:
+
+        05 03 d4 7b a6 8f 17 27 97 df 9d
+        9e 76 53 53 98 d8 95 a3 a9 5b 95
+        d3 c6 b5 e7 c8 f5 38 b9 21 58 65
+
+A QR version of this fingerprint can be found at
+[https://finn.io/keys/textsecure.png](https://finn.io/keys/textsecure.png) and
+it's signature at
+[https://finn.io/keys/textsecure.png.sig](https://finn.io/keys/textsecure.png.sig).
+
+I will keep an updated copy of this document at
+[https://finn.io/keys](https://finn.io/keys).
+```
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+iQIcBAEBAgAGBQJTHSjOAAoJECOUeeg5xwDmAA0P/A7lp5/VmtRyhGTH7GeZZ2E0
+qQcQtvd+EJsmfUgGdwk2fKkpZS5pZqBVVy+3KNxvI5kha22zckEweTNVNEqdfvJl
++uIWi74ZIUySVPXqeR1I5/k4Vph0mRgToFLFSGi0kBCJ0/hONs56sNr2Sgs1WPI+
+4dAozWrN20Gi9aQAon7esV3KZZB2CxRyz6R0NmVngP8PQEqncjp+qdcohSHsx5Jt
+eVI2+spjTG2E6401vUAROX9SjMVTbv9IfcHkMuUKPE0h/nybvn0Q7j8IIkjMzMpe
+lI7nZZAYQQLqwcbiQpYaN7CyjtDIfRYZb8Jm1b2mTHL1iJM4m9AQ2Kug0VfdwnO5
+mUBe1MqRxKhUKf7J0QpipUDwtgTd9x433EVj6FhJCoMVhn280aFCgarkBn+8d/q+
+vxnNPDGFEiEjrPMKorO3bmK1bedjDxKWtj64i6P7v/sA86ITiyqxOQ3uk2nvIV51
+QUAazzO6Nfii4wGoRqeHMRnFVL8Vpyh4RmluD7LxxpbCpsi+7csOoq6R3f6ymFmE
+etTUVl3RLRowgKjoZA3IpNzdOSYPSLq9FCG53A4CXq7bFusm6hxjPRTNMpXDQ9y+
+uKRH83B2QsbVyrUrdSWrbe8QPR7KInWvLvL9KnEyd2TfpyDIemhFcJ0pro8AG6Er
+F4X0xcVzQroo4X4T7Qms
+=gqQO
+-----END PGP SIGNATURE-----
+```
