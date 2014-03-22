@@ -18,7 +18,8 @@ $(document).ready(function() {
                             .addClass("service")
                             .addClass(host)
                             .addClass(service)
-                            .text(service);
+                            .text(service)
+                            .attr("title", hosts[host][service]['plugin_output']);
                         switch(hosts[host][service]['current_state']) {
                             case "0":
                                 servicebox.addClass("status-okay");
