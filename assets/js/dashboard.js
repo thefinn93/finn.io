@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $(".dashboard").text("Connecting to status server");
+    $(".dashboard").text("Connecting to status server...");
     $.get("/status/status.json").success(function(hosts) {
         console.log(hosts);
         $(".dashboard").text("");
