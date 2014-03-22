@@ -1,0 +1,21 @@
+.host   {
+    margin: 3px;
+    display: inline-block;
+    color: #2AA198;
+}
+
+.service   {
+    display: block;
+    color: #000000;
+}
+.status-okay {
+    background-color: #2AAA00;
+}
+
+.status-warning {
+    background-color: #AAAA00;
+}
+
+.status-critical {
+    background-color: #A22222;
+}
