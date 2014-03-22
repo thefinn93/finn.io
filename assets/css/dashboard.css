@@ -19,3 +19,7 @@
 .status-critical {
     background-color: #A22222;
 }
+
+.status-unknown {
+    background-color: #AAAAAA;
+}
