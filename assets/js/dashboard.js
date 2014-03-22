@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    $(".dashboard").text("Every day I'm bufferin...");
+    $(".dashboard").text("Connecting to status server");
     $.get("/status/status.json").success(function(hosts) {
         console.log(hosts);
         $(".dashboard").text("");
@@ -40,6 +40,6 @@ $(document).ready(function() {
             }
         }
     }).error(function() {
-        $(".dashboard").text("#fail");
+        $(".dashboard").text("Failed to connect to the status server. That could be a problem");
     })
 })
