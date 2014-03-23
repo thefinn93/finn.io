@@ -1,6 +1,5 @@
 function update(timeout) {
     $.get("/status/status.json").success(function(hosts) {
-        console.log(hosts);
         $(".dashboard").text("");
         for(host in hosts) {
             if(hosts.hasOwnProperty(host)) {
@@ -11,7 +10,6 @@ function update(timeout) {
                     .append("<b>" + host + "</b>");
                 for(service in hosts[host]) {
                     if(hosts[host].hasOwnProperty(service)) {
-                        console.log("Setting up box for ", host, service);
                         var servicebox = $("<div>")
                             .attr("id", host + "-" + service)
                             .addClass("service")
