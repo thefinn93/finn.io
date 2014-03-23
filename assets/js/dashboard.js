@@ -1,5 +1,4 @@
-$(document).ready(function() {
-    $(".dashboard").text("Connecting to status server...");
+function update(timeout) {
     $.get("/status/status.json").success(function(hosts) {
         console.log(hosts);
         $(".dashboard").text("");
@@ -38,9 +37,24 @@ $(document).ready(function() {
                     }
                 }
                 $(".dashboard").append(hostbox);
+                if(updatetime > 5000) {
+                    updatetime = updatetime/2;
+                }
+                if(updatetime < 5000) {
+                    updatetime = 5000;
+                }
+                setTimeout(update, updatetime);
             }
         }
     }).error(function() {
         $(".dashboard").text("Failed to connect to the status server. That could be a problem");
+        updatetime = updatetime*2;
+        setTimeout(update, updatetime);
     })
+}
+
+$(document).ready(function() {
+    $(".dashboard").text("Connecting to status server...");
+    updatetime = 5000;
+    update();
 })
