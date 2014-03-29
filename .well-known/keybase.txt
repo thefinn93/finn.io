@@ -1,0 +1,67 @@
+://keybase.io/finn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://finn.io
+  * I am finn (https://keybase.io/finn) on keybase.
+  * I have a public key with fingerprint 39B2 9193 8DDA 08CB 7FD8  B848 319D B1ED 6874 2E2C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "39b291938dda08cb7fd8b848319db1ed68742e2c",
+            "host": "keybase.io",
+            "key_id": "319DB1ED68742E2C",
+            "uid": "e8fdcc4fc29dfdb3dfcfa002a6023400",
+            "username": "finn"
+        },
+        "service": {
+            "hostname": "finn.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396056446,
+    "expire_in": 157680000,
+    "prev": "6e92afc21d850fe58805c5d78302f99a15b193f4938d6201098c713012ed49df",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+owGbwMvMwMSoPKXyheVxhmeMpw+8SmIINlOsq1ZKyk+pVLKqVspOBVNpmXnpqUUF
+RZl5JUpWSsaWSUaWhpbGFikpiQYWyUnmaSkWSRYmFsaGlilJhqkpZhbmJkapRslK
+OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgrIHENLFydDVxewelcjZ6BcKVgi1SItJTnZ
+JC3ZyDIlLSXJOCUtOS3RwMAo0czAyNjEwACksDi1KC8xNxWoGui4PKVaHSWgSFlm
+cirIvSBrkWQh9hYU5ZfkJ+fnAAUzSkoKiq1AmkoqC0CqylOT4qH645My81KA/gXq
+KEstKs7Mz1OyMgSqTC7JBBloaGxpZmBqZmJipqOUWlGQWZQanwlSYWpuZmEABCB7
+UsuARpqlWholAr1gmGJhapCWamphYWCabJpibmFsYJRmaZloaJoEDMM0E1A4mhkZ
+GBpYWiSbGxobGBqlppgA/a0E8lFhXj7IbKA7E9OBZhZnpucllpQWpSrVdjLJsDAw
+MjGwsTKBooyBi1MAFpEBWfz/NJhzE1prV7zZHDjpbf6fOf7HHl3KM9fbbv/kofjt
+z/OWHp11lmVfkFx5ysFtMo8ecBWuXRdo/opZ6Bzvq33X7F7ofGRw5rsm0uOyvf3V
+pTcH1AT/cBlp6t2Sz/xu+vKrgdH8gxozOzryH4nfzAhU8PYWbdKxv8Sh8ELtyV0X
+oWrN6yZH+2vePrA+UheY+oGnyTfAqP3egvTGUH+fMO0lPtPO/LaSvXHxe/pK4SSF
+E+ZB95bO1P7abJNxdIbxljWxhi8do1IWGrAm7PUMDTKYnRT6aCan+Pddq23iPaLn
+L1ub1yz+MjL59KKrCcuCoqZqZ09d1OF/8217tJVTTI5IYJWFZI7+nRP7p4r/sd/+
+kzVpcdXDnZd4/IRm3hI/ef4+Y+P+9oWBIg8CT+Wxr80U3CyfeHm3DXPUUZHiOZd/
+cK7YclmlRWpF987D1+9eUGtgZsn4dyjCVMOv6dV+ZfHPrKEuLJN79jaUZe7a/+6I
+68yQC0GCHMyLb/66syg07ORfi2U3z9YbsFbaBltPuGTDs+L40QLDIAP+rOuhX3Q1
+Gnlftaa5cLy7P/uV2KZXAp08ZhGF54PvVKz3CeU079r86sla41vxcyr8Nb0OKKz8
+5e4utfn17ml/22NKDtVWphnmlm9Lmy/TJjHl7rsvx7YK/50g1iyRe/w4d7BD7Mcq
+kzOOL0RVTGwnv1i7SUpDStpz496LDH252/oW7M8GAA==
+=iBvL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/finn
+
