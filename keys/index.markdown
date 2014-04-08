@@ -2,9 +2,11 @@
 layout: default
 title: Keys
 ---
+
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
+
 ```
 
 I, Finn Herzfeld, own the XMPP accounts finn@rows.io, thefinn93@gmail.com and
@@ -29,24 +31,33 @@ A QR version of this fingerprint can be found at
 it's signature at
 [https://finn.io/keys/textsecure.png.sig](https://finn.io/keys/textsecure.png.sig).
 
+
+The SSH public key used on my primary laptop is:
+
+    ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDiaUzFIkgW+2ZznRRfeSu3ahKhacOkYINBqUQmoD8BLiV1f+QM1L57sHbSxLUo3dY+vsmZoaW7VxXR/BP5xC1iK0jATIgpqnc4X0R6FMzD8el5pHUOJOnLhyFWfYn5mBrKjlhJVTJGi9EcokjMKYAZLpKfRqRfkIWggddJ4h84md8TNBisvvHyChaW7Lonw7CnRFuZFISCBMTkYQ5DAcU5iyxW8Uu5INbRwEzFTnHZgonrD0nKpd7lDCyM7tpe0LzKmZDm7X/4NSbQnIl1z/NXMukMPdkU4g5QIzQG0svf+GCZiJx5zmEzRvV6Upv7Lf5rG9dXPhM+ieEDZCkOQ5lP finn@wash
+
+That same laptop's cjdns public key is `4upjugvc9rmtw08uy61tg17zm66wtxswxsfbr2z30fc9urtdvnm0.k` (IP: `fc7d:e861:1411:96eb:0fbf:f88d:f13e:1337`)
+
 I will keep an updated copy of this document at
 [https://finn.io/keys](https://finn.io/keys).
+
+
 ```
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.14 (GNU/Linux)
 
-iQIcBAEBAgAGBQJTHSjOAAoJECOUeeg5xwDmAA0P/A7lp5/VmtRyhGTH7GeZZ2E0
-qQcQtvd+EJsmfUgGdwk2fKkpZS5pZqBVVy+3KNxvI5kha22zckEweTNVNEqdfvJl
-+uIWi74ZIUySVPXqeR1I5/k4Vph0mRgToFLFSGi0kBCJ0/hONs56sNr2Sgs1WPI+
-4dAozWrN20Gi9aQAon7esV3KZZB2CxRyz6R0NmVngP8PQEqncjp+qdcohSHsx5Jt
-eVI2+spjTG2E6401vUAROX9SjMVTbv9IfcHkMuUKPE0h/nybvn0Q7j8IIkjMzMpe
-lI7nZZAYQQLqwcbiQpYaN7CyjtDIfRYZb8Jm1b2mTHL1iJM4m9AQ2Kug0VfdwnO5
-mUBe1MqRxKhUKf7J0QpipUDwtgTd9x433EVj6FhJCoMVhn280aFCgarkBn+8d/q+
-vxnNPDGFEiEjrPMKorO3bmK1bedjDxKWtj64i6P7v/sA86ITiyqxOQ3uk2nvIV51
-QUAazzO6Nfii4wGoRqeHMRnFVL8Vpyh4RmluD7LxxpbCpsi+7csOoq6R3f6ymFmE
-etTUVl3RLRowgKjoZA3IpNzdOSYPSLq9FCG53A4CXq7bFusm6hxjPRTNMpXDQ9y+
-uKRH83B2QsbVyrUrdSWrbe8QPR7KInWvLvL9KnEyd2TfpyDIemhFcJ0pro8AG6Er
-F4X0xcVzQroo4X4T7Qms
-=gqQO
+iQIcBAEBAgAGBQJTQ5eKAAoJECOUeeg5xwDmtZEP+wSe+C6MecgUjmvSAyGTiW4J
+3Kx6JS8/r9eaQoV+vzjbA0MMDOBIwVLLwS743oOhDKEXObrsZV1zVTSY5zo7brlU
+thy8fmrUDY9YMOnADDsd6mCkxZADGVY4aM44aD8uIu6Ec4xhxUdQoiBfE96Ftg+f
+CwiGXxue38jvM7BoFiR1C/gOtodq6atxH1qquhCQflcpk6fVeBsyHv4SPQS8Byl5
+/jGNQ6t+apNl6w48pRA729J1v3tPBdL7K+ZqbRkkUleQ2Cs3wEFT7qdpDq4DEJkN
+voGpVRpUieUmRKyEn8XzzK4EqnQ4T//3ur454zrunFaWWocO5kq7gx2G88uXDKXP
+QbjuyGeiXbVqhVmdRrNOrMljY2ZN86SnSfgv+WzOqe2bU0prDj68M/bcgIfCW5ZL
+d39IAycSSN+D4yhwuCBkWh2+CAYT4QMyXXDwzSYcfnfmtHO7r707oRdhkZk6mPTm
+N4RsVM6VPiuWy5B6z4V4kdV07hOlGPlc2Fk8K8JG6puNBsEXPvylSj0H/6jv4Yc3
+fawruT/5FZ7HBUJmOXYrD4D9P4OOsQhnsmDckdEsT4zNBWYs/W0LLbLp3emu+AgE
+H2LWW5VPs8EyCi7UUVqAFPx2Lstr0Cx/AqkwSF6O4eIHeQww9giPLVQLq53Pp7X8
+10Ls1jmQ2laxZLXGA5rn
+=eHeD
 -----END PGP SIGNATURE-----
 ```
