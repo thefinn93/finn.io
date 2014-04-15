@@ -1,3 +1,4 @@
+==================================================================
 https://keybase.io/finn
 --------------------------------------------------------------------
 
@@ -25,10 +26,10 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1396736592,
+    "ctime": 1397533548,
     "expire_in": 157680000,
-    "prev": "034cd6bd8c1177b3392163bb09cae11f9ca3da394287f221206aae60db00945d",
-    "seqno": 22,
+    "prev": "662acde0419f8a56733825b57bc5b195389a3be32ea358de00a14e40cf32c03e",
+    "seqno": 27,
     "tag": "signature"
 }
 
@@ -37,27 +38,27 @@ with the aforementioned key, yielding the PGP signature:
 -----BEGIN PGP MESSAGE-----
 Version: GnuPG v1.4.14 (GNU/Linux)
 
-owGbwMvMwMSoPKXyheVxhmeMpw+8SmIIdmgKqFZKyk+pVLKqVspOBVNpmXnpqUUF
-RZl5JUpWSsaWSUaWhpbGFikpiQYWyUnmaSkWSRYmFsaGlilJhqkpZhbmJkapRslK
-OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgrIHENLFydDVxewelcjZ6BcKVgi1SItJTnZ
-JC3ZyDIlLSXJOCUtOS3RwMAo0czAyNjEwACksDi1KC8xNxWoGui4PKVaHSWgSFlm
-cirIvSBrkWQh9hYU5ZfkJ+fnAAUzSkoKiq1AmkoqC0CqylOT4qH645My81KA/gXq
-KEstKs7Mz1OyMgSqTC7JBBloaGxpZm5sZmpppKOUWlGQWZQanwlSYWpuZmEABCB7
-UsuARhoYmySnmCWlWCQbGpqbJxkbWxoZmhknJRlYJiemGhqmASnjlERjSxMjC/M0
-IyNDIwOzxMRUM4OUJAMDSxPTFCWQjwrz8pWsjIBWlSSmA80szkzPSywpLUpVqu1k
-kmFhYGRiYGNlAkUZAxenACwiff7x/7P8vvjo5mMbzav9QvPeJmzPWeip9MkkVfiO
-6c9D+6dnrFLffu6QyJemTeqsyY5+1/pjmGQKb2Xu4U9X+R8WeTL7NctOcVcPlb6d
-8ptP1zvfCuf8kCFkuDO4SJljA8PXd4pqVrferwzd/7Th05rW+KKJChsv232LcjZc
-25eqqeZhXrkjRuKUw22NGtNSBk+OIzeNpU9ZvJUXO75hCuvs/3fZDgXkeHNw6TlP
-sOUXu58pJvZLeBKr1tcNgW13qrX3ON4W+SV3PPj4YuvjRdPSF3889/OmHqvWNu3K
-qAmqH4999VnopqGk+bvRatu073uFN2sren584b9syxPX6l17+sqbPWfJt5/wyVeW
-kbReoBPBxSZ3t/0D/8elM7P/zKrb965fnPN2TqHPsyklb3Kbv6g75J3eeHDL471R
-spe5fljP3Mr/4dluQ7X7b1NeHK1infOrVUtGic/rVfeGT1rb+FOfNf6/sCJJLmr5
-KWPzKx7iiTbb1NzCrt+vDrkx40rc7fKYZVzOFcXcDkvun7zy4Nr/G8czDtu7beqc
-3/Syq6Gm88Tk4N/LTObYmAT0/L9S9v3zm22PN87f8WSCtSvb7fDjkwWeTPIOXbA/
-oNLg5VTL9y0SfF6+2WeN2R/On5VR3rX0W/bNPfNuMyxQndWZoqVpuOTY+td8ocw7
-V7FdzHlifPTudD0TxZr4usnNTUF3Yg91bWxk/HjhmVzJnO0A
-=98hE
+owGbwMvMwMSoPKXyheVxhmeMpw+8SmII9lmdU62UlJ9SqWRVrZSdCqbSMvPSU4sK
+ijLzSpSslIwtk4wsDS2NLVJSEg0skpPM01IskixMLIwNLVOSDFNTzCzMTYxSjZKV
+dJQy8otBOoDGJCUWp+pl5gPFgJz4zBSQOYaWLk6Gri5g9a5GzkC5UrBEqkVaSnKy
+SVqykWVKWkqScUpaclqigYFRopmBkbGJgQFIYXFqUV5ibipQNdBxeUq1OkpAkbLM
+5FSQe0HWIslC7C0oyi/JT87PAQpmlJQUFFuBNJVUFoBUlacmxUP1xydl5qUA/QvU
+UZZaVJyZn6dkZQhUmVySCTLQ0NjS3NTY2NTEQkcptaIgsyg1PhOkwtTczMIACED2
+pJYBjTQzM0pMTkk1MDG0TLNINDUzNza2MDJNMjVPSjZNMrQ0NbawTDROSjU2Sk00
+NrUAKjRINDRJNTFITjM2SjYwTlUC+agwL1/Jysgc6M7EdKCZxZnpeYklpUWpSrWd
+TDIsDIxMDGysTKAoY+DiFIBF5PtjAgxTEyXMWsy+3Kl0untGskL0ttSTzHefWSbe
+LHiyxSB+9RwB3u+Xtm6XiCnZueDT98PawT8ZFl5Su/tiwj7TY9FHytZ3bGmYNM1C
+kqM+rJBxsnRdeonMQulzd5bYzby5vT7vacWqT5PVdwlMl0hfb2PWFZt06ltc1qzJ
+6TP3H/t4ilV50vf5VVUCRu9XrVd7cfIT5/S3zW8WmloeYHZe+S//vvZpqVuH80T6
+Q/tcPky++y7/7a391U0uHc7v/h9Pmju7t5vhlkFKuUa4Mv9BszcKb19Gs6xa5Jiv
+reJ7w996ziPP2M9MeZGnu8y9pq2ZcX6TaEdD/rG5mYYHSldOYWa5orVZ7tk5m77T
+OpE9jhWqF983/Jmlw5imNtPhT7Vl0QXek+qVV5fGxFv6bMvKy+rg28NV5DTB5euT
+W7Pu5r17eIcvS9aX87WKypbrP2XyK12eN35lnhi89VRCS/PC/a49ZSEiOnFzI2UF
+wl9945yTxmPFpNZQ3um0dftZxZcvZje2uT2NOhr+VjTnzJ0nM8xEjhb4hSuU/v/9
+i2/Xhj/cXsvNnjn5L1NjKTq/ysT6tVNKyClnuyn7i5wmqn9aqtY094/DJs5lOjeM
+S9+zzJcx/N3uMDW7LmjDgnerN8lMPqDIeSpWg+17UmOSVtc1ppV7HpkdPLNNgvdo
+v0flCobQmkAFq+WXZ9xyerhY4wDLuYS4FrOzf3ZMWC3Zci8IAA==
+=myBO
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -65,4 +66,4 @@ appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/finn
 
-
+==================================================================
