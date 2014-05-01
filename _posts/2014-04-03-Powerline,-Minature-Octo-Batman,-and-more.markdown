@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Powerline, Minature Octo Batman, and more"
+description: I wrote a few powerline pluings. How I did it and what they are
 date: 2014-04-03 23:00:00
 categories: python tmux vim cjdns code
 ---
