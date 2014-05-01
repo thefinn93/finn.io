@@ -18,7 +18,7 @@ that each timeslot of each course is in fact its own table, with one row and
 cell, which contains a `<pre>` tag, which has the "table" made by using the
 proper number of spaces to make everything line up. Like this:
 
-```
+{% highlight html %}
 <table width="100%" ><tr><td><pre>
        <A
        HREF=https://sdb.admin.washington.edu/timeschd/uwnetid/sln.asp?QTRYR=SPR+2014&SLN=12766>12766</A>
@@ -26,7 +26,7 @@ proper number of spaces to make everything line up. Like this:
        Open     26/  48                      
                                MUST ENROLL IN CSSSKL 162 B                                                                                                                         
                                </td></tr></table>
-```
+{% endhighlight %}
 
 After some brief spectulation with my fellow classmates about what they could
 be doing on the backend, I got down to parsing it. I first tried `split`ing
