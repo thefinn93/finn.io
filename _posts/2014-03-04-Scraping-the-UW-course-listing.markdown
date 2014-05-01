@@ -1,5 +1,6 @@
 ---
 layout: post
+type: post
 title: "Scraping the UW course listings"
 date: 2014-03-04 00:1:00
 description: I wrote a python script to scrape the University of Washington's course listings

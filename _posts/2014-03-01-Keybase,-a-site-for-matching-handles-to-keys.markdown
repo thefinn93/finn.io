@@ -1,5 +1,6 @@
 ---
 layout: post
+type: post
 title: "Keybase, a site for matching handles to keys"
 date: 2014-03-02 00:00:00
 description: keybase.io is a great site for securely associating online handles with PGP keys

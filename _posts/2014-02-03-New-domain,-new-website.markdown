@@ -1,5 +1,6 @@
 ---
 layout: post
+type: post
 title: "New domain, New website"
 date: 2014-02-03 14:00:00
 description: I bought a swanky domain, set up a jekyll blog and this is the first post on it
