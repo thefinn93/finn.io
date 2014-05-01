@@ -18,6 +18,9 @@
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{{ page.description }}">
   <meta name="twitter:domain" content="finn.io">
+  {% if page.image %}
+  <meta name="twitter:image" content="{{ page.image }}">
+  {% endif %}
   {% endif %}
 </head>
 
