@@ -12,12 +12,13 @@
 
   <link href="/assets/css/style.min.css" rel="stylesheet" />
   <link href="/assets/css/colors-dark.css" rel="stylesheet" />
-
+  {% if page.type == "post" %}
   <meta name="twitter:card" content="summary">
   <meta name="twitter:creator" content="@thefinn93">
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{{ page.description }}">
   <meta name="twitter:domain" content="finn.io">
+  {% endif %}
 </head>
 
 <body>
