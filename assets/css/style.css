@@ -312,3 +312,7 @@ img.center {
 #instantclick {
     display: none;
 }
+
+.hidden-google-crap {
+	display: none;
+}
