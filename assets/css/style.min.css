@@ -75,4 +75,3 @@ url('/assets/fonts/finnicon.svg?8if6r3#finnicon') format('svg');font-weight:norm
 .icon-google-plus:before{content:"\e600";}
 .icon-user:before{content:"\e603";}
 #instantclick{display:none;}
-.hidden-google-crap {display: none;}
