@@ -1,2 +1,23 @@
 #!/bin/bash
-wget -O - https://raw.githubusercontent.com/thefinn93/cjdnsscripts/master/checkYoShit.py | python
+
+url="https://raw.githubusercontent.com/thefinn93/cjdnsscripts/master/checkYoShit.py"
+
+which python2 > /dev/null
+if [ "$?" != "0" ]; then
+    echo "Bro you don't even have python is this a fucking router or something?"
+    echo "PS you need python2. Python 3 is hard"
+    exit 1
+fi
+which wget > /dev/null
+if [ "$?" != "0" ]; then
+    echo "Bro you don't even have wget. wut"
+    which curl > /dev/null
+    if [ "$?" != "0" ]; then
+        echo "BRO WAT U DONT HAVE CURL"
+        exit 1
+    else
+        curl $url | python2
+    fi
+else
+    wget -O - $url | python2
+fi
