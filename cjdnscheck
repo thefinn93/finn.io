@@ -2,15 +2,15 @@
 
 url="https://raw.githubusercontent.com/thefinn93/cjdnsscripts/master/checkYoShit.py"
 
-if [[ `type -P python2` ]]; then
+if [[ ! `type -P python2` ]]; then
     echo "Bro you don't even have python is this a fucking router or something?"
     echo "PS you need python2. Python 3 is hard"
     exit 1
 fi
-if [[ `type -P wget` ]]; then
+if [[ ! `type -P wget` ]]; then
     echo "Bro you don't even have wget. wut"
     which curl > /dev/null
-    if [[ `type -P curl` ]]; then
+    if [[ ! `type -P curl` ]]; then
         echo "BRO WAT U DONT HAVE CURL"
         exit 1
     else
