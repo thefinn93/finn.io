@@ -3,8 +3,13 @@ url: https://finn.io
 description: The personal website of Finn Herzfeld
 
 permalink: /:year/:month/:day/:title/
+
 paginate: 10
-pygments: true
+highlighter: pygments
+
+assets:
+  js_compressor:  uglifier
+  css_compressor: sass
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 include: ['.well-known']
