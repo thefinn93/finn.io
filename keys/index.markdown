@@ -3,11 +3,11 @@ layout: default
 title: Keys
 ---
 
-```
+<pre><code>
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-```
+</code></pre>
 
 I, Finn Herzfeld, own the XMPP accounts finn@rows.io, thefinn93@gmail.com and
 thefinn93@thefinn93.com. My OTR fingerprints on my laptop for those accounts
@@ -42,7 +42,7 @@ I will keep an updated copy of this document at
 [https://finn.io/keys](https://finn.io/keys).
 
 
-```
+<pre><code>
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.14 (GNU/Linux)
 
@@ -60,4 +60,4 @@ H2LWW5VPs8EyCi7UUVqAFPx2Lstr0Cx/AqkwSF6O4eIHeQww9giPLVQLq53Pp7X8
 10Ls1jmQ2laxZLXGA5rn
 =eHeD
 -----END PGP SIGNATURE-----
-```
+</code></pre>
