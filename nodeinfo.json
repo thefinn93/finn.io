@@ -1,6 +1,26 @@
 {
-  "ip":"fcef:96c2:7226:a4b1:97ea:59bf:cb2e:51f0",
-  "hostname":"h.finn.io",
-  "operator":"finn",
-  "contact":"finn@finn.io"
+  "key": "kb88dl7hycf56kcc7vq8b1yswkdt5f32skg6ls155hltufbhtb40.k",
+  "hostname": "h.finn.io",
+  "contact": {
+    "name": "finn",
+    "email": "finn@finn.io",
+    "xmpp": "finn@finn.io"
+  },
+  "pgp": {
+    "fingerprint": "39B291938DDA08CB7FD8B848319DB1ED68742E2C",
+    "full": "http://h.finn.io/pgp.key"
+  },
+  "services": {
+    "blog": {
+      "uri": "http://h.finn.io",
+      "description": "My pesonal weblog"
+    },
+    "keyserver": {
+      "uris": {
+        "hkp": "hkp://keyserver.thefinn93.com",
+        "http": "http://keyserver.thefinn93.com:11371"
+      },
+      "description": "An sks-powered PGP keyserver"
+    }
+  }
 }
