@@ -143,6 +143,10 @@ h3 {
 	margin: 0 auto;
 }
 
+#content img {
+	max-width: 500px;
+}
+
 #sidebar {
 	position: absolute;
 	text-align: right;
