@@ -1,2 +1,5 @@
+User-Agent: HaosouSpider
+Disallow: /
+
 User-agent: *
 Allow: /
