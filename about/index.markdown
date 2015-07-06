@@ -3,6 +3,7 @@ layout: about
 title: About
 ---
 
+![Finn Herzfeld]({{ 'finn.png' | asset_path }}){: .profile-pic }
 
 I'm **Finn Herzfeld**, a college student in Seattle. I'm interested in things
 like [meshnets](https://seattlemesh.net) and [radio](https://uwave.fm). You some

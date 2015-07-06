@@ -320,3 +320,7 @@ img.center {
 #instantclick {
     display: none;
 }
+
+.profile-pic {
+	border-radius: 10px;
+}
