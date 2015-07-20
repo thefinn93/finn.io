@@ -27,6 +27,6 @@ The results are displayed in a simple list, with green boxes indicating availabi
 the green boxes point to a NameCheap page to buy the domain, the links on the red boxes point to
 the domain on http.
 
-![Domain Finder Screenshot]({{ 'posts/2015-07-80/domain-finder-screenshot.png' | asset_path }})
+![Domain Finder Screenshot]({{ 'posts/2015-07-20/domain-finder-screenshot.png' | asset_path }})
 
 [Source on Github](https://github.com/thefinn93/domain-availability)
