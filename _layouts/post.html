@@ -5,17 +5,32 @@ layout: default
 
 	{% if page.external-url %}
 		<h1>
-			<a href="{{ page.external-url }}"><span itemprop="name">{{ page.title }}</span></a>
+			<a href="{{ page.external-url }}"><span itemprop="headline">{{ page.title }}</span></a>
 			<a class="anchor" href="{{ page.url }}"><i class="icon-anchor"></i></a>
 		</h1>
 	{% else %}
-		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+		<h1><a href="{{ page.url }}"><span itemprop="headline">{{ page.title }}</span></a></h1>
 	{% endif %}
 	<span itemprop="author" itemscope itemtype="http://schema.org/Person">
 		By <span itemprop="name">Finn Herzfeld</span>
 	</span>
+	<span itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+		<meta itemprop="name" content="finn.io" />
+		<div itemprop="logo" itemscope itemtype="http://schema.org/ImageObject">
+			<meta itemprop="url" content="/cactus.png" />
+			<meta itemprop="height" content="32" />
+			<meta itemprop="width" content="32" />
+		</div>
+	</span>
+	<div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+		<meta itemprop="url" content="/cactus.png" />
+		<meta itemprop="height" content="32" />
+		<meta itemprop="width" content="32" />
+	</div>
+	<meta itemprop="mainEntityOfPage" content="https://finn.io" />
 	<div itemprop="articleBody" class="post-content">{{ content }}</div>
 
+	<meta itemprop="dateModified" content="{{ page.date | date_to_xmlschema }}" />
 	<p class="meta">Posted on <span itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}" class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
 
 </article>
