@@ -2,7 +2,7 @@
 layout: post
 type: post
 title: "Let's Encrypt and Nginx"
-date: 2015-02-08 16:00:00
+date: 2016-02-08 16:00:00
 description: A quick how-to for Let's Encrypt and nginx
 categories: letsencrypt ssl tls nginx webroot howto
 ---
