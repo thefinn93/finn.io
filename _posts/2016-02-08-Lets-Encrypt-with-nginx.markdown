@@ -22,13 +22,11 @@ else, skip down to the section labeled Proxying**. Otherwise, determine the loca
 `/var/www/html` or similar). Then, clone the repo and run Let's Encrypt with the webroot. In
 the following code snippet, replace `/var/www/html` with wherever your root directory is:
 
-```
+{% highlight bash %}
 git clone https://github.com/letsencrypt/letsencrypt
-
 cd letsencrypt
-
 ./letsencrypt-auto -a webroot --webroot-path /var/www/html --email your@email.tld -d your.domain -d www.your.domain certonly
-```
+{% endhighlight %}
 
 you can specify up to 100 domains via multiple `-d`, they must all be valid from the same webroot
 though. You should give them a good email to contact you at, they only use for important things
