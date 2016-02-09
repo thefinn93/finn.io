@@ -24,7 +24,9 @@ the following code snippet, replace `/var/www/html` with wherever your root dire
 
 ```
 git clone https://github.com/letsencrypt/letsencrypt
+
 cd letsencrypt
+
 ./letsencrypt-auto -a webroot --webroot-path /var/www/html --email your@email.tld -d your.domain -d www.your.domain certonly
 ```
 
