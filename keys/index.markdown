@@ -11,24 +11,13 @@ Hash: SHA1
 
 I, Finn Herzfeld, control the following keys:
 
-XMPP/OTR:
-
-finn@finn.io            `DB543699 DC6CF561 2B067682 08E1CBE6 979DE9AB` (Laptop)
-
 My [TextSecure](https://github.com/WhisperSystems/TextSecure) fingerprint:
 
-        05 29 57 e8 18 92 e4 d3 a6 cf 90 7f d1 b3 13 c4 ce 28 fe 34 05 66 cd b0 cc d9 81 c8 f9 3b b2 01 76
-
-A QR version of this fingerprint can be found at
-[https://finn.io/keys/textsecure.png](https://finn.io/keys/textsecure.png) and
-it's signature at
-[https://finn.io/keys/textsecure.png.gpg](https://finn.io/keys/textsecure.png.gpg).
-
+        05 5b 86 e7 ae f9 3d 1b f2 c1 vc 48 aa 4f e4 d0 37 58 0e fb 5a 61 c4 79 2a 35 0e cd 92 0b b7 7c 27
 
 The SSH public key used on my primary laptop is:
 
-    ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDiaUzFIkgW+2ZznRRfeSu3ahKhacOkYINBqUQmoD8BLiV1f+QM1L57sHbSxLUo3dY+vsmZoaW7VxXR/BP5xC1iK0jATIgpqnc4X0R6FMzD8el5pHUOJOnLhyFWfYn5mBrKjlhJVTJGi9EcokjMKYAZLpKfRqRfkIWggddJ4h84md8TNBisvvHyChaW7Lonw7CnRFuZFISCBMTkYQ5DAcU5iyxW8Uu5INbRwEzFTnHZgonrD0nKpd7lDCyM7tpe0LzKmZDm7X/4NSbQnIl1z/NXMukMPdkU4g5QIzQG0svf+GCZiJx5zmEzRvV6Upv7Lf5rG9dXPhM+ieEDZCkOQ5lP finn@wash
-
+    ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILCNH6UlkkHxR815mjbHBJTomrnaFHCjiG6760MELRFj finn@wash
 
 That same laptop's cjdns public key is `4upjugvc9rmtw08uy61tg17zm66wtxswxsfbr2z30fc9urtdvnm0.k` (IP: `fc7d:e861:1411:96eb:0fbf:f88d:f13e:1337`)
 
@@ -40,18 +29,18 @@ I will keep an updated copy of this document at
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQIcBAEBAgAGBQJVU43xAAoJECOUeeg5xwDmPRIQAJCe1NIb4lvOKcHy7SuZ6Mvg
-5hbTgarMr+C+hnQKZ0MmLa8sJzH1ooo/sA0HfGHzlLCEzaIrCOJ8eLQpE9BYjT1t
-TTcLyQ6DjZkGIL+oc43YTq9Rq9gvmWGTwC+rK+IhV5MJhCQN+kHA0y/ap8VydB/c
-pMAUvGPUwT4iueOXK9aYnq54oFj7DiI4HfD9uVK7CSXDwyG6KlOP9Ei9KQqxDRvZ
-Gjt/dAzyf7R9uNmatYLpquRDCyjDf+z1F/t7eFl5JTpX/wAfll5F8H6Vv72LGcvi
-2JZ2vVtU/ssO5Jlp8ryJ1jaH4VLBA/nozX3bnNhpTEFKznfeYAZxSg+LaIvvp4b9
-1a57PVm4+JZDA3z5R+amDCu4VKw79Js0DyEKYChYKIHkFtoeP+75R1zfzWpm3Yf/
-h5CLdMx9l/6Qs4ML0mz7gNRn1B6+7HIvsughRp63zecBIWRlotWvyzgsocXwPBZR
-34EZnN700h+54TKGc6y3qWYuSJgBxFCVIzOeBN4YhU7p/kv74fqFeidRYpTxlxG4
-vE/pPYx04pUoZCLefL5Zvay9eKgOplfafkj1t+zVaedZfq+swWS3JiA7DjBpVnlJ
-mS9L4Q3q4lG2nifDub6ihNAYxpm8pUCj1Cp+aD1L/SZC3Rqg7EpJQBjimBj9QhYa
-Uc4N5uw6SnU2nT2P1XMA
-=qyNe
+iQIcBAEBAgAGBQJXKAvEAAoJECOUeeg5xwDmMiwP/39HbUgC+hgJXaXIi4r6zmb4
+BmrbdbQELwpQakPnqpfW9XRa9K7IcVVMO7sb3a9t8kzl2sAWU96Mcrmb+WhBSCcj
+oad4yOtrkPqV3uINJWf1TdzUPi4JV0FeaJx//NthcosdLDILqNGHzc7sBd6scZB4
+c/9cod1xUkzqT8acjXgR7jWXKPiD6KFjP0ueG75KG7SDzMHPpRc4IMRIsFq+rOFz
+ywZE7PcfCuyGa7f7ruDJ4170lyUV9ccLi1YNd6rsSo/Xkt0hLzP5hxRxgOAQhw2N
+N3/DvxwUIfdHkqm7uHhClgQs7bbwCfizJ9dppzen74EfBsdRIMOZtVnseQk/0n61
+CW5+LhEOCLC9eRGPecJJmHp8sR7iSsTa9+vHRyt6IVUuqhgsmoBU75fr8r6H0hgd
++SUVlihC9GVnPh9T1pyrNzNKOL1yUry6JSXQqNa9cNQwij4xtgNMLQG0DF7WS4FB
+X1lJ32JH8awUTd6pdrBs2zLY4hr3OzL8KxNTsuZg2AmW89kxbA5Ctc53W7G08ICU
+CSxn+oixgUFRWakqx6bBdCVe/OMahitVHegVK+yIt35ub1hNCmJeM2L6uyPUNatr
+/LzQPcpORQvb7wU5slrGzuG3sp2WNIiwzesZd/JEN+PgCOH3lnxWA3x+t/o6+M9k
+63kfE/18P8bozgEZ39y1
+=6VNp
 -----END PGP SIGNATURE-----
 </code></pre>
