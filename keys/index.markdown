@@ -22,12 +22,12 @@ The SSH public key used on my primary laptop is:
 That same laptop's cjdns public key is `4upjugvc9rmtw08uy61tg17zm66wtxswxsfbr2z30fc9urtdvnm0.k` (IP: `fc7d:e861:1411:96eb:0fbf:f88d:f13e:1337`)
 
 My OMEMO fingerprints:
-Laptop:
 
-        4a2abcf1 d229cdb7 dede927b 38189d95 42d04555 ebd9ab17 da7ed0ab 2dd9156e
-Phone:
+        4a2abcf1 d229cdb7 dede927b 38189d95 42d04555 ebd9ab17 da7ed0ab 2dd9156e (Laptop)
 
-        d1be26ed b18a1b15 fa1910ca 0d53dced 3580e327 c7c5785d 629aadc9 07921d09
+        d1be26ed b18a1b15 fa1910ca 0d53dced 3580e327 c7c5785d 629aadc9 07921d09 (Phone)
+
+        1164020d 87f6a956 94dd3344 82fbcf35 aa7716da c4d084a3 44b842ac 39f9e066 (Tablet)
 
 Bitcoin address:
 
@@ -40,20 +40,19 @@ I will keep an updated copy of this document at
 
 <pre><code>
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v2
 
-iQIcBAEBCAAGBQJXdsMfAAoJECOUeeg5xwDm9C8P/1oYEqHVa3XPWuKWY/uGm0YK
-rGL+K8YiieMAUsTzcODrfa+NqeVXjVOd41+TjQwKKLv3S+xW6A5L5tI3zPWeRlvE
-Tx8flxPThCXB+iz7m2s3zIbPfzH4cLFnqF1U/7j30vOwXk5dat9Rt+E+ZVO9xaw0
-aWYOWSKROIlB+WwyZk0fOEtuEXuA/6C1hfdY/o2giJvH+G9vue15y+2sZdt69nOl
-F/9nzqtWI8fXKh+0QrwnLm8+W7kH8c5L4bwDirJ6t7zHXFNugUTXnPk0H8Q1XyG5
-D/OEZOOU8JzFzhbMhXLZoF4xHZJoHAFWCp768rFqaTJgmGHXE8j3Kw0GsZNvQdST
-SSfdREUtauetXtbHW+zp+IiJnHaaiV32X17XBpvK/yikFC9wAHYs4y5mCFFA/NDn
-VwDT9gPO99ZqjukQQ14Vq/9El2W5zA/hLdPKzwakqR8+BRGlhDORSAfMd6magM/4
-HqeUDphQiAZNiqHCiqX1ow4K/qpd1lQ4mwXPxFKQN+r0411JQe5JksOqD53RzLxZ
-3zXcdlxr6L9PHDsTRG/BpyIil2yAMxM2i6hmvnpW269qDDFtK/XcYZAbyBJtmXAV
-5qPChIHyGBuIssXRKVQ23j0OnNpMYOk6JkbsuZJ4bwuzoHlPyW4lKtl7aKRAhKfJ
-xb06OFudv5DZDQVjLnNn
-=8HxQ
+iQIcBAEBCAAGBQJX8wP5AAoJECOUeeg5xwDmvPsP/1MDnOiHt0GuhNC++A3Ecqd2
+e2otxu1mUxPXVsbCK937e9sk3yq31sJpFItTBZegy/Ddr/0n1+hBilL84IcjCkT4
+eo3Fgy96InYRYiyMnZq0rX2e3XSqp7/vS9cFIfg6XcTHB2M22i1u8P/BY6MPx1+6
+pC+okVyNpqxV8uUhYBB12r7YcVMj8S6osHrm9Bn7kuDxST83nbzFnlcq2m77YyAm
+lh6UT50kwCM0unqwciQHsJPNkj3Ef0zMvj7uGvbWhbMgMCAlGOP0H7MlOpKJr8uE
+2hLNEM7tZzj7aRC73QpS1byuAkXWSmJdubu10fsZZjhfVk3iiq6CuAV0U/a6vYzp
+bXNlnanavin/Ln7lC4nNxKJQ9grJcm3BrqdN7Veo5tfXXORP+Se6ySuag6Xrwexv
+on959pP4uk9Rdb4+8HJqSZnSW3HsytyG9T05fN3JOcfizwNQeO2ADFFk1aq8Y91/
+EtaizhWpSOdr1OWTiQg1tIkq85fqVwJqyU3Fo0THqo17tWefDAnY9c2zHItqtuGj
+qrc+AbOxPA7OdfTV0Ap3nH/uelJ4TqR+WfRDpkzN51P/fsUAmptUMzX58wHUCZxE
+W0iq6EpnBvHiJujk7RuKQ3DGdwrCq+vw1poF7RhVI5FA/CCHId4NpVuKTsUQJRyy
+WZ5CT9FzGKmvkQzGaOJk
+=3p1A
 -----END PGP SIGNATURE-----
 </code></pre>
